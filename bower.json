@@ -1,0 +1,16 @@
+{
+  "name": "bower-tinder-js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/seaniechaos/bower-tinder-js",
+  "authors": [
+    "Sean Ring"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
